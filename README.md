@@ -39,4 +39,4 @@ I'm a PhD student in Computer Science and Engineering at the University of Bolog
 
 <a href="http://www.github.com/andreamust"><img src="https://activity-graph.herokuapp.com/graph?username=andreamust&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=andreamust.andreamust&left_color=green&right_color=gray)
+![visitor badge](https://visitor-badge.deta.dev/badge?page_id=andreamust.andreamust&left_color=green&right_color=gray)
