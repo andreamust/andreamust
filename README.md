@@ -39,4 +39,6 @@ I'm a PhD student in Computer Science and Engineering at the University of Bolog
 
 <a href="http://www.github.com/andreamust"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=andreamust&theme=github-compact" alt="GitHub Commits Graph" /></a>
 
+<a href="http://www.github.com/andreamust"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=andreamust" alt="Skills Graph" width="80%"/></a>
+
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=andreamust.andreamust&left_color=green&right_color=gray)
