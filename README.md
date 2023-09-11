@@ -7,7 +7,7 @@ Ph.D. in Computer Science and Engineering
 I'm a PhD student in Computer Science and Engineering at the University of Bologna. I work mainly in the field of Music Information Retrieval and Computational Musicology.
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [andreapoltronieri.org](http://andreapoltronieri.org)
+* 🖥️  See my portfolio at [andreapoltronieri.org](http://andreapoltronieri.com)
 * ✉️  You can contact me at [andrea.poltronieri21@gmail.com](mailto:andrea.poltronieri21@gmail.com)
 * 🚀  I'm currently working at [University of Bologna](http://www.unibo.it/sitoweb/andrea.poltronieri2/en)
 
