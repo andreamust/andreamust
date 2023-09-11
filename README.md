@@ -37,8 +37,8 @@ I'm a PhD student in Computer Science and Engineering at the University of Bolog
 
 <a href="http://www.github.com/andreamust"><img src="https://github-readme-stats.vercel.app/api?username=andreamust&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="andreamust's GitHub stats" /></a>
 
-<a href="http://www.github.com/andreamust"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=andreamust&theme=github-compact" alt="GitHub Commits Graph" /></a>
+[![Andrea's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=andreamust&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="http://www.github.com/andreamust"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=andreamust" alt="Skills Graph" width="80%"/></a>
 
-![visitor badge](https://visitor-badge.deta.dev/badge?page_id=andreamust.andreamust&left_color=green&right_color=gray)
+![](https://komarev.com/ghpvc/?username=andreamust)
