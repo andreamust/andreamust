@@ -35,7 +35,7 @@ I'm a PhD student in Computer Science and Engineering at the University of Bolog
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/andreamust"><img src="https://github-readme-stats.vercel.app/api?username=andreamust&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="andreamust's GitHub stats" /></a>
+<a href="http://www.github.com/andreamust"><img src="https://github-readme-stats.vercel.app/api?username=andreamust&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true" alt="andreamust's GitHub stats" /></a>
 
 [![Andrea's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=andreamust&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
