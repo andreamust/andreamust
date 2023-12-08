@@ -39,6 +39,6 @@ I'm a PhD student in Computer Science and Engineering at the University of Bolog
 
 [![Andrea's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=andreamust&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="http://www.github.com/andreamust"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=andreamust" alt="Skills Graph" width="80%"/></a>
+<!--<a href="http://www.github.com/andreamust"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=andreamust" alt="Skills Graph" width="80%"/></a>-->
 
 ![](https://komarev.com/ghpvc/?username=andreamust)
