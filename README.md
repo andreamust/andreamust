@@ -1,7 +1,7 @@
 Hi 👋 My name is Andrea Poltronieri
 ===================================
 
-Ph.D. in Computer Science and Engineering
+Ph.D. Student in Computer Science and Engineering
 -----------------------------------------
 
 I'm a PhD student in Computer Science and Engineering at the University of Bologna. I work mainly in the field of Music Information Retrieval and Computational Musicology.
