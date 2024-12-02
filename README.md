@@ -1,15 +1,15 @@
 Hi 👋 My name is Andrea Poltronieri
 ===================================
 
-Ph.D. Student in Computer Science and Engineering
+Research Engineer in MIR @ Music Technology Group, Barcelona, Spain
 -----------------------------------------
 
-I'm a PhD student in Computer Science and Engineering at the University of Bologna. I work mainly in the field of Music Information Retrieval and Computational Musicology.
+I'm a Research Engineer at the Music Technology Group, Universitat Pompeu Fabra. I work mainly in the field of Music Information Retrieval and Computational Musicology.
 
-* 🌍  I'm based in Italy
+* 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [andreapoltronieri.com](http://andreapoltronieri.com)
 * ✉️  You can contact me at [andrea.poltronieri21@gmail.com](mailto:andrea.poltronieri21@gmail.com)
-* 🚀  I'm currently working at [University of Bologna](http://www.unibo.it/sitoweb/andrea.poltronieri2/en)
+* 🚀  I'm currently working at the [Music Technology Group](https://www.upf.edu/web/mtg)
 
 ### Skills
 
