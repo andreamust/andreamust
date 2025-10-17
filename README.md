@@ -1,10 +1,10 @@
 Hi 👋 My name is Andrea Poltronieri
 ===================================
 
-Research Engineer in MIR @ Music Technology Group, Barcelona, Spain
+Postoctoral Researcher in MIR @ Music Technology Group, Barcelona, Spain
 -----------------------------------------
 
-I'm a Research Engineer at the Music Technology Group, Universitat Pompeu Fabra. I work mainly in the field of Music Information Retrieval and Computational Musicology.
+I'm a Postdoctoral Researcher at the Music Technology Group, Universitat Pompeu Fabra. I work mainly in the field of Music Information Retrieval and Computational Musicology.
 
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [andreapoltronieri.com](http://andreapoltronieri.com)
