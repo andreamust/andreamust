@@ -31,11 +31,10 @@ I'm a Postdoctoral Researcher at the Music Technology Group, Universitat Pompeu 
 
 <p align="left"> <a href="https://www.dev.to/andreamust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/andreamust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrea-poltronieri21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/andpoltronieri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/andreamust"><img src="https://github-readme-stats.vercel.app/api?username=andreamust&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true" alt="andreamust's GitHub stats" /></a>
+
 
 [![Andrea's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=andreamust&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
